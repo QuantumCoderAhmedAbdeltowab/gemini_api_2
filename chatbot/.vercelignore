@@ -1,0 +1,10 @@
+Dockerfile
+*.csv
+*.db
+*.log
+__pycache__/
+*.pyc
+*.py[cod]
+venv/
+.venv/
+.DS_Store
